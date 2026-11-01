@@ -1,2 +1,2 @@
 # projet-git-pgsql-B
-Projet Git public (tuning)
+tuning dB (short overview)
